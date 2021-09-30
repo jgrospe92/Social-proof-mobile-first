@@ -20,6 +20,7 @@ html,
 body,
 .container, .desktop-top {
   width: 100%;
+  
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -86,7 +87,7 @@ header h1 {
 }
 
 .cards {
-  width: 21.8rem;
+ 
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -105,7 +106,7 @@ header h1 {
   box-sizing: border-box;
   border-radius: 0.5rem;
   padding: 2.5rem 2rem 2.5rem 2rem;
-  width: 100%;
+  max-width: 22rem;
   display: flex;
   flex-direction: column;
   margin-top: 1.2rem;
@@ -153,11 +154,39 @@ header h1 {
     url(../images/bg-pattern-bottom-desktop.svg) no-repeat bottom right/contain;
   }
 
- .container .desktop-top{
+  html,
+body,
+.container, .desktop-top {
+  height: 100%;
+}
+
+  body {
+    margin-top: -120px;
+   
+  }
+
+  .intro header h1 {
+    font-size: 2.2rem;
+    padding-left: 1rem;
+    text-align: justify;
+    word-break: break-all;
+  }
+
+ .desktop-top{
+   justify-content: space-between ;
+   align-items: center;
    flex-direction: row;
+   padding: 0 20rem 2rem 7rem;
+   margin: 0;
+  
+ }
+ 
+ .ratings {
+   padding-top: 7rem;
+
  }
 
- .container .desktop-top .intro {
+.intro {
   display: flex;
   flex-direction: column;
   width: 21rem;
@@ -165,21 +194,77 @@ header h1 {
 
  }
 
- header h1 {
-    text-align: justify;
-    word-break: break-all;
- }
- 
  .description p {
+   width: 20rem;
+   padding-top: 1rem;
    text-align: justify;
-   word-break: break-all
- }
+   text-justify: distribute;
+    
 
- .container .desktop-top .ratings {
-   justify-content: flex-end;
-   align-items: flex-end;
  }
 
 
+ .rate {
+    flex-direction: row;
+    justify-content: space-around;
+    height: 3rem;
+   
+ }
+
+ .rating-star {
+   padding-top: 0.9rem;
+ }
+.middle {
+  margin-left: 90px;
+}
+.bottom {
+  margin-left: 180px;
+}
+
+.cards {
+ flex-direction: row;
+ justify-content: space-between;
+ align-content: flex-end;
+ margin: 0;
+ padding: 0;
+ gap: 3%;
+
+  
+}
+/* Profile Cars */
+.reviews {
+ height: 14rem;
+ padding-top: 1rem;
+ padding-bottom: 15rem;
+ 
+}
+
+
+.firstProfile{
+  margin-left: -122px;
+  margin-top: -150px;
+  
+}
+
+.secondProfile {
+  margin-top: -100px;
+}
+
+.thirdProfile {
+  margin-top: -50px;
+}
 
 }
+
+.attribution {
+  display: none;
+}
+
+@media screen and (min-width: 1100px ) {
+
+  .description p {
+    width: 30rem;
+  }
+
+}
+
