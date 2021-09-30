@@ -6,16 +6,14 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Mobie version](#screenshot)
-  - [Desktop version](#screenshot)
+  - [Mobile-Version](#Mobile-Version)
+  - [Desktop version](#Desktop-Version)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -26,14 +24,16 @@ Users should be able to:
 - View the optimal layout for the section depending on their device's screen size
 - 
 
-### Mobile Version
-![Mobile-view](./images/mobilefirstTopView.png)
--Mobile bottom
-![[Mobile-view](./images/mobileBottomView.png)
+### Mobile-Version
+![Mobile-view](https://github.com/jgrospe92/Social-proof-mobile-first/blob/main/images/mobilefirstTopView.PNG)
 
-### Desktop Version
+
+-Mobile bottom
+![Mobile-view](https://github.com/jgrospe92/Social-proof-mobile-first/blob/main/images/mobileBottomView.PNG)
+
+### Desktop-Version
 -Desktop
-![Mobile-view](./images/dekstop.png)
+![Desktop-Version](https://github.com/jgrospe92/Social-proof-mobile-first/blob/main/images/dekstop.PNG)
 
 
 ### Links
