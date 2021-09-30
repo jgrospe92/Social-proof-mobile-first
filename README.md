@@ -7,7 +7,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Mobile-Version](#Mobile-Version)
-  - [Desktop version](#screenshot)
+  - [Desktop version](#Desktop-Version)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Desktop-Version
 -Desktop
-![Mobile-view](https://github.com/jgrospe92/Social-proof-mobile-first/blob/main/images/dekstop.PNG)
+![Desktop-Version](https://github.com/jgrospe92/Social-proof-mobile-first/blob/main/images/dekstop.PNG)
 
 
 ### Links
