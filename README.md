@@ -6,8 +6,8 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Mobie version](#screenshot)
-  - [Desktop version](#screenshot)
+  - [Mobie version](#Mobile Version)
+  - [Desktop version](#Desktop Version)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -27,13 +27,13 @@ Users should be able to:
 - 
 
 ### Mobile Version
-![Mobile-view](./images/mobilefirstTopView.png)
+![Mobile-view](https://github.com/jgrospe92/Social-proof-mobile-first/blob/main/images/mobilefirstTopView.PNG)
 -Mobile bottom
-![[Mobile-view](./images/mobileBottomView.png)
+![[Mobile-view](https://github.com/jgrospe92/Social-proof-mobile-first/blob/main/images/mobileBottomView.PNG)
 
 ### Desktop Version
 -Desktop
-![Mobile-view](./images/dekstop.png)
+![Mobile-view](https://github.com/jgrospe92/Social-proof-mobile-first/blob/main/images/dekstop.PNG)
 
 
 ### Links
